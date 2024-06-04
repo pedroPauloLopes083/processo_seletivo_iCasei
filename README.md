@@ -1,6 +1,5 @@
-# processo_seletivo
+# Plano de Teste de Usabilidade para Tela de Login
 
-Plano de Teste de Usabilidade para Tela de Login
 
 Objetivo
 Avaliar a usabilidade da tela de login para identificar problemas e obter feedback dos usuários.
