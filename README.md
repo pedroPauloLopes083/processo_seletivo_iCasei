@@ -1,4 +1,4 @@
-# processo_seletivo_iCasei
+# processo_seletivo
 
 Plano de Teste de Usabilidade para Tela de Login
 
