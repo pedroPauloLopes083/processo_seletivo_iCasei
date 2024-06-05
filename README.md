@@ -10,8 +10,7 @@ Link: "Esqueci minha senha"
 Botão: "Entrar"
 
 Ferramenta Utilizada
-Para este teste de usabilidade, utilizaremos uma combinação de observação direta e questionários. Não será necessário o uso de ferramentas específicas além do ambiente de teste e formulários impressos ou digitais para coleta de dados.
-
+Para este teste de usabilidade, utilizaremos uma combinação de observação direta e questionários. Não será necessário o uso de ferramentas específicas além do ambiente de teste.
 
 Casos de testes:
 1.Realizar login com credenciais corretas
@@ -40,17 +39,17 @@ Procedimento de Teste
 Caso de teste 1: Realizar login com credenciais corretas
 Inserir o valor "usuario1" no campo de "usuário" e o valor "senha1" no campo de "senha"; depois, clicar no botão "entrar".
 Critérios de sucesso: O usuário deve conseguir fazer login sem dificuldades.
-Coleta de dados: Tempo de conclusão, erros cometidos, feedback verbal.
+Coleta de dados: Tempo de conclusão, erros cometidos.
 
 Caso de teste 2: Realizar login com credencial "usuário" incorreta
 Inserir o valor "usuário02" no campo "usuário" e o valor "senha2" no campo de "senha"; depois, clicar no botão "entrar"
 Critérios de sucesso: O sistema deve exibir uma mensagem de erro clara.
-Coleta de dados: Mensagens de erro exibidas, feedback do usuário, número de tentativas.
+Coleta de dados: Mensagens de erro exibidas, número de tentativas.
 
 Caso de teste 3: Realizar login com credencial "senha" incorreta
 Inserir o valor "usuário2" no campo "usuário" e o valor "senha02" no campo de "senha"; depois, clicar no botão "entrar"
 Critérios de sucesso: O sistema deve exibir uma mensagem de erro clara.
-Coleta de dados: Mensagens de erro exibidas, feedback do usuário, número de tentativas.
+Coleta de dados: Mensagens de erro exibidas, número de tentativas.
 
 Caso de teste 4: Seguir fluxo para recuperar senha
 Clicar no link "esqueci minha senha" e seguir as instruções para recuperar sua senha usando o e-mail: "usuario1@example.com".
